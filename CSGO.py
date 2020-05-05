@@ -126,6 +126,7 @@ while 1:
     # y = int(y) / 2 - 392
     y = int(y) - MouseY
 
+    # 自己实测的数据：游戏中移动像素数=moveRel输入 / 1.56
     currentMouseX = x / 1.56
     currentMouseY = y / 1.56
 
