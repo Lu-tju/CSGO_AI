@@ -1,7 +1,7 @@
 # CSGO_AI
-基于yolo的csgo自瞄外挂
+# 基于yolo的csgo自瞄外挂
 
-CSGO.py是自己改写的。其余注释及代码均复制的：https://blog.csdn.net/qq_34199326/article/details/84072505 ，并按照自己的理解对注释稍加修改
+CSGO.py是自己改写的。其余注释及代码来自的：https://blog.csdn.net/qq_34199326/article/details/84072505 ，并按照自己的理解对注释稍加修改
 
 原文件：https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
 
@@ -22,4 +22,4 @@ python库：
 ·控制鼠标：pyautogui
 
 
-效果参见：https://www.bilibili.com/video/BV1v5411x7Mr?p=2
+效果参见：https://www.bilibili.com/video/BV1v5411x7Mr?p=1
