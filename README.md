@@ -1,5 +1,7 @@
 # CSGO_AI
-# 基于yolo的csgo自瞄外挂
+
+基于yolo的csgo自瞄外挂
+----------------------
 
 CSGO.py是自己改写的。其余注释及代码来自的：https://blog.csdn.net/qq_34199326/article/details/84072505 ，并按照自己的理解对注释稍加修改
 
