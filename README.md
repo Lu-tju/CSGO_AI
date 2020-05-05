@@ -23,5 +23,6 @@ python库：
 
 ·控制鼠标：pyautogui
 
+权重文件下载：https://pjreddie.com/media/files/yolov3.weights ，直接放到主目录
 
 效果参见：https://www.bilibili.com/video/BV1v5411x7Mr?p=1
